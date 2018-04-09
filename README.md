@@ -24,8 +24,7 @@ shutdown /r /t 0
 exit
 :end
 echo 修改失败
-pause```
-
+pause```  
 
 
 # Windows10 install WSL
