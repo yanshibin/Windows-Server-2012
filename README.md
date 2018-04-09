@@ -24,7 +24,9 @@ shutdown /r /t 0
 exit
 :end
 echo 修改失败
-pause
+pause  
+
+
 # Windows10 install WSL
 ### 步骤  
 我们先要启用适用于 Linux 的 Windows 子系统。以 管理员 身份运行 Powershell，输入以下内容。完成后按 Y 重启电脑。  
